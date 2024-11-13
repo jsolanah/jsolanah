@@ -6,12 +6,12 @@
 </div>
 
 ## Sobre mi 👨‍💼
----
+
 - Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).
 - Estoy interesado en ampliar mis conocimientos explorando sobre nuevas tecnologías y crecer en el mundo del desarrollo.
 
 ## Mis pasiones 🌟  
----
+
 - **Desarrollo de Software** 🖥️  
 A pesar de estar al inicio de mi carrera, me motiva intensamente el proceso de desarrollar aplicaciones que aborden desafíos del mundo real. Me dedico constantemente a aprender sobre diversos lenguajes de programación para fortalecer mis competencias
 
@@ -22,11 +22,11 @@ La protección de datos y la seguridad de la información son áreas que me apas
 Estoy fascinado por el potencial de la inteligencia artificial y el machine learning para transformar industrias y mejorar la vida cotidiana. Me apasiona aprender sobre algoritmos y modelos que permiten a las máquinas aprender y tomar decisiones inteligentes.
 
 ## Contacto📱
----
+
 - Email📧: solanaholgadojorge@gmail.com
 
 ## ⚙️GitHub Analytics
----
+
 <p align="center">
 <a href="https://github.com/jsolanah">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jsolanah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
