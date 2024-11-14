@@ -23,7 +23,8 @@ Estoy fascinado por el potencial de la inteligencia artificial y el machine lear
 
 ## Contacto📱
 
-- Email📧: solanaholgadojorge@gmail.com
+- [Email📧](solanaholgadojorge@gmail.com)
+- [Linkedin💼](https://www.linkedin.com/in/jorge-solana-holgado-59ba65242/)
 
 ## ⚙️GitHub Analytics
 
