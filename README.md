@@ -25,11 +25,13 @@ Estoy fascinado por el potencial de la inteligencia artificial y el machine lear
 ## 🗂️ Aplicaciones web:
 
 - 👩🏻‍💻[Portfolio][Portfolio]
-- 🪨📜✂️[Piedra Papel Tijera][Piedra Papel Tijera]
+- ✂️[Piedra Papel Tijera][Piedra Papel Tijera]
+- 🍓[Juego de Memoria][Juego de Memoria]
 
 <!-- LINKS -->
 [Piedra Papel Tijera]: https://jsolanah.github.io/PiedraPapelTijera/
 [Portfolio]: https://jsolanah.github.io/Portfolio/
+[Juego de Memoria]: https://jsolanah.github.io/JuegoMemoria/
 
 
 ## Contacto📱
