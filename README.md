@@ -21,20 +21,23 @@ La protección de datos y la seguridad de la información son áreas que me apas
 - **Inteligencia Artificial y Machine Learning** 🤖  
 Estoy fascinado por el potencial de la inteligencia artificial y el machine learning para transformar industrias y mejorar la vida cotidiana. Me apasiona aprender sobre algoritmos y modelos que permiten a las máquinas aprender y tomar decisiones inteligentes.
 
-<!--
-## 🗂️ Aplicaciones web:
 
-- 👩🏻‍💻[Portfolio][Portfolio]
+<!--## 🗂️ Aplicaciones web:
+
+
 - ✂️[Piedra Papel Tijera][Piedra Papel Tijera]
 - 🍓[Juego de Memoria][Juego de Memoria]
 
  LINKS 
 [Piedra Papel Tijera]: https://jsolanah.github.io/PiedraPapelTijera/
-[Portfolio]: https://jsolanah.github.io/Portfolio/
+[Portfolio]: https://portfolio-jorgesolana.netlify.app/
 [Juego de Memoria]: https://jsolanah.github.io/JuegoMemoria/
 -->
 
 ## Contacto📱
+- [Mi página][Portfolio]👩🏻‍💻
+  
+[Portfolio]: https://portfolio-jorgesolana.netlify.app/
 
 - [Linkedin](https://www.linkedin.com/in/jorge-solana-holgado-59ba65242/)💼
 
