@@ -35,10 +35,10 @@ Estoy fascinado por el potencial de la inteligencia artificial y el machine lear
 -->
 
 ## Contacto📱
-- [Mi página][Portfolio]👩🏻‍💻
+<!-- - [Mi página][Portfolio]👩🏻‍💻
   
 [Portfolio]: https://portfolio-jorgesolana.netlify.app/
-
+-->
 - [Linkedin](https://www.linkedin.com/in/jorge-solana-holgado-59ba65242/)💼
 
 ## ⚙️GitHub Analytics
